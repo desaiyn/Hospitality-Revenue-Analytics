@@ -15,11 +15,10 @@ This project analyzes revenue trends for AtliQ Grands, aiming to uncover gaps in
         - Booking platform performance
         - Seasonal pricing trends
 
-**4. Pricing Insights:** Identified that AtliQ Grands followed a flat pricing model, with no adjustments for peak seasons or weekends, leading to revenue gaps.
-
-**5. Revenue Optimization Opportunity**: Revealed that summer vacation rates remained constant despite fluctuations in demand, suggesting the potential for dynamic pricing strategies.
-
 **Insights & Impact**
+- **Pricing Insights:** Identified that AtliQ Grands followed a flat pricing model, with no adjustments for peak seasons or weekends, leading to revenue gaps.
+- **Revenue Optimization Opportunity**: Revealed that summer vacation rates remained constant despite fluctuations in demand, suggesting the potential for dynamic pricing 
+  strategies.
 - Flat pricing model → Potential loss of revenue due to missed price adjustments.
 - Dynamic pricing recommendation → Adjusting rates based on demand patterns can increase revenue.
 - Enhanced booking platform insights → Helped identify which platforms drive the most revenue.
