@@ -1,4 +1,4 @@
- ## Hospitality Revenue Analytics
+ ## Hospitality Revenue Analytics- PowerBI, Query Editor, DAX
  
 ### Project Overview
 This project analyzes revenue trends for AtliQ Grands, aiming to uncover gaps in pricing strategies and optimize revenue generation. The solution involves Power BI dashboards, DAX calculations, and Power Query transformations to provide actionable insights for stakeholders.
